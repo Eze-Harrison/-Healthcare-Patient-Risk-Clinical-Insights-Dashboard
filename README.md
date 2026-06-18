@@ -1,5 +1,8 @@
 ## Healthcare-Patient-Risk-Analysis
 
+# Project File Preview
+[_healthcare_dataset_10000.xlsx](https://github.com/user-attachments/files/29093657/_healthcare_dataset_10000.xlsx)
+
 # Project Overview
 
 This project analyzes a synthetic healthcare dataset containing 10,000 patient records to uncover clinical patterns, patient risk levels, disease distribution, and hospital utilization trends.The goal of this analysis was to simulate a real-world healthcare analytics project by cleaning messy healthcare data, performing exploratory data analysis, and creating an interactive dashboard to generate meaningful insights. I generated the data using ChatGpt and Gemini AI by giving it prompts that depicts real world events.
